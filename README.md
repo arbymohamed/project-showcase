@@ -2,7 +2,7 @@
 
 Welcome to my engineering portfolio! I'm passionate about electronics, robotics, and embedded systems. Below you'll find a showcase of my hands-on projects demonstrating skills in PCB design, 3D modeling, firmware development, and system integration.
 
-📄 **[View My Resume](Arby-Mohamed-Mahmoud-FlowCV-Resume-20260215.pdf)**
+📄 **[View My Resume](new_resume.pdf)**
 
 ---
 
